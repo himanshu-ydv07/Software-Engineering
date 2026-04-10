@@ -1,5 +1,5 @@
-entropy
-Description: Computes the Shannon entropy of a grayscale image, measuring its randomness or information content. Entropy is higher for complex, textured images and zero for a completely uniform image
+**entropy
+**Description: Computes the Shannon entropy of a grayscale image, measuring its randomness or information content. Entropy is higher for complex, textured images and zero for a completely uniform image
 .
 Purpose: Use entropy to quantify how much information or variation is in an image. This is useful for comparing compression levels, texture analysis, or any situation where image complexity matters.
 Syntax:
